@@ -7,8 +7,6 @@ It supports various features to streamline library operations.
 ## Table of Contents
 1. [Database Structure](#database-structure)
 2. [API Documentation](#api-documentation)
-3. [Frontend Flow](#frontend-flow)
-4. [Hosting Instructions](#hosting-instructions)
 
 ---
 
@@ -138,7 +136,6 @@ It supports various features to streamline library operations.
               "lastName": "Doe",
               "email": "john.doe@example.com",
               "role": "user",
-              ...
           }
       ]
       ```
@@ -168,7 +165,6 @@ It supports various features to streamline library operations.
               "author": "Author Name",
               "price": 19.99,
               "bookCategoryId": 1,
-              ...
           }
       ]
       ```
